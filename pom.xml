@@ -30,7 +30,7 @@
 		<java.version>17</java.version>
 		<sonar.host.url>http://localhost:9000/</sonar.host.url>
                 <sonar.login>admin</sonar.login>
-                 <sonar.password>Divyamanu.57</sonar.password>
+                 <sonar.password>Sasikumar6@</sonar.password>
 	</properties>
 	<dependencies>
 		<dependency>
